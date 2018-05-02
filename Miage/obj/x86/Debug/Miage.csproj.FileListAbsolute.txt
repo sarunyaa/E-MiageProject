@@ -1,0 +1,5 @@
+/Users/sarunyaa/Projects/Miage/Miage/bin/Debug/Miage.exe
+/Users/sarunyaa/Projects/Miage/Miage/bin/Debug/Miage.pdb
+/Users/sarunyaa/Projects/Miage/Miage/obj/x86/Debug/Miage.csproj.CoreCompileInputs.cache
+/Users/sarunyaa/Projects/Miage/Miage/obj/x86/Debug/Miage.exe
+/Users/sarunyaa/Projects/Miage/Miage/obj/x86/Debug/Miage.pdb
